@@ -8,5 +8,5 @@ This is the code associated with the manuscript titled [Information Filtering an
 
 ## Running the Example:
 ```bash
-python main.py --source acmv9 --target --citationv1
+python main.py --source acmv9 --target citationv1
 ```
