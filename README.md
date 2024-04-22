@@ -1,6 +1,3 @@
-Here's a revised version of your README for clarity and formatting improvements:
-
----
 
 # GIFI
 
@@ -30,4 +27,3 @@ If this code assists in your research, please consider citing our paper:
 }
 ```
 
----
